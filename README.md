@@ -1,5 +1,3 @@
-# Discord
-movies
 {
   "embeds": [{
     "title": "Google it!",

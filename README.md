@@ -40,7 +40,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/A_picture_from_China_every_day_108.jpg"
       },
       "footer": {
-        "text": "Woah! So cool1! :smirk:",
+        "text": "Woah! So cool! :smirk:",
         "icon_url": "https://i.imgur.com/fKL31aD.jpg"
       }
     }
